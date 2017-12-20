@@ -1,3 +1,4 @@
+copy https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md
 ## Git và Github cho sysadmin
 
 ###Mục lục
